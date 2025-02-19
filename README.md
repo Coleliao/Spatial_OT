@@ -1,5 +1,6 @@
-# Spatial_OT
-**Spatial and Single-nucleus Transcriptomics Decoding the Molecular Landscape and Cellular Organization of Avian Optic Tectum**
+# Spatial and Single-nucleus Transcriptomics Decoding the Molecular Landscape and Cellular Organization of Avian Optic Tectum
+## Abastract
+<p>The avian optic tectum (OT) has been studied for its diverse functions, yet a comprehensive molecular landscape at thecellular level has been lacking. In this study, we applied spatial transcriptomesequencing and single-nucleus RNA sequencing (snRNA-seq) to explore the cellular organization and molecular char acteristics of the avian OT from two species: <i style='font-style: italic'>Columba livia</i> and <i style='font-style: italic'>Taeniopygia guttata</i>. We identified precise layer structures and provided comprehensive layer-specific signatures of avian OT. Furthermore, we elucidated diverse functions in different layers, with the stratum griseum periventriculare (SGP) potentially playing a key role in advanced functions of OT, like fear response and associative learning. We characterized detailed neuronal subtypes and identified a population of FOXG1+ excitatory neurons, resembling those found in the mouse neocortex, potentially involved in neocortex-related functions and expansion ofavian OT.These findings could contribute to our understanding of the architecture of OT, shedding lights on visual perception and multifunctional association.<p>
 
 <!-- ![image](https://github.com/Coleliao/Spatial_OT/assets/94962701/f2608805-c400-44e7-a0ea-1f9a4f1583d9) -->
 
